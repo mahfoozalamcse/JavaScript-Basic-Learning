@@ -24,14 +24,14 @@ const bigNumber = 9956543576654356754n
 
 //  Array, Objects, Functions
 
-// const heros = ["shaktiman", "naagraj", "doga"];
+// const heros = ["raj", "shyam", "rock"];
 // let myObj = {
-//     name: "hitesh",
+//     name: "mahfooz",
 //     age: 22,
 // }
 
 // const myFunction = function(){
-//     console.log("Hello world");
+//     console.log("Hello mahfooz");
 // }
 
 // console.log(typeof anotherId);
