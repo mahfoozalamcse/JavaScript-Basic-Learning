@@ -1,2 +1,2 @@
 # JavaScript-Basic-Learning
-here revise javaScript each concept give in depth learning 
+here revise javaScript each concept give in depth 
