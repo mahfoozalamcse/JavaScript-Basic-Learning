@@ -1,2 +1,2 @@
 # JavaScript-Basic-Learning
-here revise javaScript
+here revised javaScript
