@@ -1,7 +1,7 @@
 //const tinderUser = new Object()
 const mingle_User= {}
 
-mingle_User.id = "123abc"
+mingle_User.id = "123abc" 
 mingle_User.name = "raj" 
 mingle_User.isLoggedIn = true;
 
