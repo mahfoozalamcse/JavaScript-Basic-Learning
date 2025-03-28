@@ -9,7 +9,7 @@ const mySym = Symbol("keys1")
 const JsUser = {
     name: "Mahfooz",
     "full name": "Mahfooz Alam",
-    [mySym]: "mykeys1", 
+    [mySym]: "mykeys1",  
     age: 21,
     location: "Varansi",
     email: "mahfooz@google.com",
