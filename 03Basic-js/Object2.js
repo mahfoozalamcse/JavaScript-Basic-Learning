@@ -2,7 +2,7 @@
 const mingle_User= {}
 
 mingle_User.id = "123abc"
-mingle_User.name = "raj"
+mingle_User.name = "raj" 
 mingle_User.isLoggedIn = true;
 
 console.log(mingle_User);
